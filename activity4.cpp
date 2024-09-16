@@ -3,7 +3,9 @@
 using namespace std;
 
 int main(){
-  cout << setw(12) << "Course: " << setw(12) << "Students: " << endl;
+  cout << "Course:     Students:  " << endl;
+  cout << "C++" << setw(9) << "50" << endl;
+  
   
   return 0;
 }
