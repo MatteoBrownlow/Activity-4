@@ -4,8 +4,8 @@ using namespace std;
 
 int main(){
   cout << "Course:     Students:  " << endl;
-  cout << "C++" << setw(21) << "50" << endl;
-  cout << "Javascript" << setw(15) << "100" << endl;
+  cout << "C++" << setw(18) << "50" << endl;
+  cout << "Javascript" << setw(12) << "100" << endl;
   
   return 0;
 }
